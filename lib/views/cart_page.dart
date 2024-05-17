@@ -66,7 +66,7 @@ class _CartPageState extends State<CartPage> {
   cartPageView(double height,double width,String text,double fontSize)
   {
     return Padding(
-      padding: const EdgeInsets.only(top:15.0),
+      padding: const EdgeInsets.only(top:30.0),
       child: Container(
         height: height,
         width: width,
